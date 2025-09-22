@@ -22,4 +22,5 @@ This game was created as part of my journey into software development and AI/ML 
    cd word-guessing-game
    
 2.Run the script
+  ```bash
   python word_guessing_game.py
